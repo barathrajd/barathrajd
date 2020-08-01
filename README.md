@@ -3,17 +3,17 @@
 **`Hi 👋, I'm Barathraj`**
 
 </h1>
-<h3 align="center">
 
-`FRONTEND DEVELOPER FROM INDIA`
+## `FRONTEND DEVELOPER FROM INDIA`
 
-</h3>
+<br>
 
 > 🌱 `I’m currently learning Bootstrap`
 
 > 📫 `How to reach me:` barathdeva757@gmail.com
 
 > ℹ️ `My Website` [barathrajd.github.io](https://barathrajd.github.io)
+> <br>
 
 ## `Languages and Tools`
 
