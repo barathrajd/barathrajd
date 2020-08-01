@@ -1,5 +1,3 @@
-<br>
-<br>
 <h1 align="center">
 
 **`Hi 👋, I'm Barathraj`**
@@ -19,9 +17,7 @@
 
 <h2 align="center">
 
-_`Languages and Tools`_
-
-<h2 align="center">
+`Languages and Tools`
 
 `HTML5` <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="30"/> `CSS3` <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="30"/> `SASS` <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="50" height="30"/> `JavaScript` <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="30"/>
 
