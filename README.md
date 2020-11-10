@@ -8,8 +8,6 @@
 
 <br>
 
-> 🌱 `I’m currently learning Bootstrap`
-
 > 📫 `How to reach me:` barathdeva757@gmail.com
 
 > ℹ️ `My Website` [barathrajd.github.io](https://barathrajd.github.io)
