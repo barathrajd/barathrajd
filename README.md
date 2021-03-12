@@ -17,11 +17,7 @@
 
 <h2 align="center">
 
-`HTML5`  `CSS3` `SASS`  `JavaScript`
-
-`ReactJS` `NodeJS``MongoDB`
-
-`VSCode` `Git`
+`HTML5`  `CSS3` `SASS`  `JavaScript` `ReactJS` `NodeJS` `MongoDB` `VSCode` `Git`
 </h2>
 
 <h2 align="center">
