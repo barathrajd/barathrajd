@@ -1,18 +1,47 @@
-<h1 align="center">
+# 👋 Hi, I’m Barathraj
 
-**`Hi 👋, I'm Barathraj`**
+I’m a **Web Developer** with 5+ years of experience building modern web applications and custom tools.  
+My expertise lies in **React**, **Node.js**, and **Rspack**, and I love creating scalable solutions that bridge frontend and backend systems seamlessly.  
 
-</h1>
+---
 
-> 📫 `How to reach me:` barathraj.uidev@gmail.com
+## 🔧 Tech Stack
 
-## `Languages and Tools`
+- **Frontend:** React.js, Next.js, Microfrontends, Shadcn/UI  
+- **Backend:** Node.js, Express.js, Deno, @oak/oak  
+- **Build Tools:** Rspack, Webpack, Nx, Vite  
+- **Languages:** JavaScript (in-depth), TypeScript, Rust (learning)  
+- **Other:** Monorepo architecture, Custom SDKs, File management tools, CI/CD
 
-<h2 align="center">
+---
 
-`HTML5`  `CSS3` `SASS`  `JavaScript` `ReactJS` `NodeJS` `MongoDB` `VSCode` `Git`
-</h2>
+## 🚀 What I Do
 
-<h2 align="center">
-<a href="https://github.com/barathrajd" target="new_tab"> <img src="https://img.icons8.com/fluent/25/000000/github.png"/></a>
-</h2>
+- 🛠️ **Build custom tools & SDKs** for asset management, file upload, and developer productivity  
+- ⚛️ **Design scalable frontend systems** with microfrontends and shared component libraries  
+- ⚡ **Optimize build processes** using Rspack, Webpack, and modern bundlers  
+- 📦 **Contribute to monorepos** with reusable functions, components, and logging utilities  
+
+---
+
+## 📚 Currently Learning
+
+- Diving deeper into **JavaScript fundamentals & advanced concepts**  
+  (execution context, event loop, async/await, design patterns, performance tuning)  
+- Exploring **Rust** and **Axum** for systems-level backend programming  
+- Improving **DSA skills in JavaScript** to strengthen problem-solving  
+
+---
+
+## 🌟 Highlights
+
+
+- Designed **multi-client frontend delivery strategy** using microfrontends
+- Hands-on with **custom Rspack plugins** to streamline frontend builds  
+
+---
+
+## 📫 Let’s Connect
+
+- GitHub: [github.com/barathrajd](https://github.com/barathrajd)
+- Mail To: [barathraj.uidev@gmail.com](barathraj.uidev@gmail.com)
