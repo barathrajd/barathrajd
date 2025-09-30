@@ -44,4 +44,4 @@ My expertise lies in **React**, **Node.js**, and **Rspack**, and I love creating
 ## 📫 Let’s Connect
 
 - GitHub: [github.com/barathrajd](https://github.com/barathrajd)
-- Mail To: [barathraj.uidev@gmail.com](barathraj.uidev@gmail.com)
+- Mail To: [barathraj.uidev@gmail.com](mailto:barathraj.uidev@gmail.com)
