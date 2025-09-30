@@ -6,8 +6,6 @@
 
 > 📫 `How to reach me:` barathraj.uidev@gmail.com
 
-> <br>
-
 ## `Languages and Tools`
 
 <h2 align="center">
