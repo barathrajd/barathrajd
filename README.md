@@ -8,7 +8,7 @@ My expertise lies in **React**, **Node.js**, and **Rspack**, and I love creating
 ## 🔧 Tech Stack
 
 - **Frontend:** React.js, Next.js, Microfrontends, Shadcn/UI  
-- **Backend:** Node.js, Express.js, Deno, @oak/oak  
+- **Backend:** Node.js, Express.js
 - **Build Tools:** Rspack, Webpack, Nx, Vite  
 - **Languages:** JavaScript (in-depth), TypeScript, Rust (learning)  
 - **Other:** Monorepo architecture, Custom SDKs, File management tools, CI/CD
