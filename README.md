@@ -24,14 +24,6 @@ My expertise lies in **React**, **Node.js**, and **Rspack**, and I love creating
 
 ---
 
-## 📚 Currently Learning
-
-- Diving deeper into **JavaScript fundamentals & advanced concepts**  
-  (execution context, event loop, async/await, design patterns, performance tuning)  
-- Exploring **Rust** and **Axum** for systems-level backend programming  
-- Improving **DSA skills in JavaScript** to strengthen problem-solving  
-
----
 
 ## 🌟 Highlights
 
