@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Barathraj
 
-I’m a **Web Developer** with 5+ years of experience building modern web applications and custom tools.  
+I’m a **Web Developer** with 4+ years of experience building modern web applications and custom tools.  
 My expertise lies in **React**, **Node.js**, and **Rspack**, and I love creating scalable solutions that bridge frontend and backend systems seamlessly.  
 
 ---
